@@ -1,4 +1,7 @@
+
 # Github and git conflict
+
+# GitHub and git
+
 # CSC4111-GitAssignment
-# Aaliyah Murray 
-# Eu7007
+# Aaliyah Murray, eu7007@wayne.edu
